@@ -31,19 +31,8 @@ The SDN-based Intrusion Detection System utilizes the POX controller to monitor 
 - **Rule-based Detection:** Intrusion detection rules are defined based on known attack signatures and anomalous network behavior. These rules are applied to incoming network traffic to identify suspicious patterns.
 - **Real-time Monitoring:** The system continuously monitors network traffic in real-time, allowing for immediate detection and response to potential security threats.
 - **Customizable Policies:** Administrators can define and customize intrusion detection policies to suit the specific security requirements of their network environment.
-- **Logging and Reporting:** Detected intrusions are logged and reported to administrators, enabling timely action to mitigate security risks.
 
 **Implementation Details:**
 
 - **Code Repository:** The project code is available on GitHub for reference and further development.
 - **Programming Language:** The system is implemented using Python programming language, leveraging POX controller APIs for SDN management.
-- **Modular Architecture:** The system is designed with a modular architecture, allowing for easy extension and integration of additional detection algorithms and mitigation strategies.
-
-**Demo and Testing:**
-
-- The system has been tested in simulated network environments to evaluate its effectiveness in detecting various types of network intrusions.
-- A demo showcasing the system's capabilities and performance is available for demonstration purposes.
-
-**Conclusion:**
-
-The SDN-based Intrusion Detection System offers a proactive approach to network security by leveraging the capabilities of SDN technology. By providing real-time detection and response to potential security threats, the system enhances the overall resilience and security posture of the network infrastructure.
