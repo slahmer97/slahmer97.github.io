@@ -27,8 +27,8 @@ tags: []
 
 featured: true
 
-url_pdf: ""
-url_code: ""
+url_pdf: "https://arxiv.org/pdf/2211.16915.pdf"
+url_code: "https://github.com/slahmer97/costoflearning"
 url_dataset: ""
 url_poster: ""
 url_project: ""

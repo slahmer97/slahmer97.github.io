@@ -31,8 +31,8 @@ tags: []
 
 featured: true
 
-url_pdf: ""
-url_code: ""
+url_pdf: "https://arxiv.org/abs/2210.01625"
+url_code: "https://github.com/slahmer97/DnnEnergyEstimation"
 url_dataset: ""
 url_poster: ""
 url_project: ""
@@ -48,8 +48,7 @@ url_video: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

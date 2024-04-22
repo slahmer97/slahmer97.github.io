@@ -25,15 +25,10 @@ abstract: "In the past few years, Deep Reinforcement Learning (DRL) has become a
 
 # Summary. An optional shortened abstract.
 
-tags:
-  - Source Themes
-featured: false
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: "https://github.com/HugoBlox/hugo-blox-builder"
+
+url_pdf: https://ieeexplore.ieee.org/document/10495063
+url_code: "https://github.com/slahmer97/costoflearning"
 url_dataset: ""
 url_poster: ""
 url_project: ""
