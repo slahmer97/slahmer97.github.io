@@ -19,8 +19,8 @@ publishDate: "2023-06-13T00:00:00Z"
 publication_types: ["poster"]
 
 # Publication name and optional abbreviated publication name.
-publication: In * IFIP Networking Conference, IFIP Networking 2023*
-publication_short: In * IFIP Networking Conference, IFIP Networking 2023 - Poster Session*
+publication: In "IFIP Networking Conference, IFIP Networking 2023"
+publication_short: In "IFIP Networking Conference, IFIP Networking 2023 - Poster Session"
 
 
 tags: []
