@@ -18,8 +18,8 @@ publishDate: "2024-04-09T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Transactions on Machine Learning in Communications and Networking, 1*(1)"
-publication_short: "TMLCN - IEEE Transactions on Machine Learning in Communications and Networking"
+publication: In *TMLCN - IEEE Transactions on Machine Learning in Communications and Networking*
+publication_short: In *TMLCN - IEEE Transactions on Machine Learning in Communications and Networking*
 
 abstract: "In the past few years, Deep Reinforcement Learning (DRL) has become a valuable solution to automatically learn efficient resource management strategies in complex networks with time-varying statistics. However, the increased complexity of 5G and Beyond networks requires correspondingly more complex learning agents and the learning process itself might end up competing with users for communication and computational resources. This creates friction: on the one hand, the learning process needs resources to quickly converge to an effective strategy; on the other hand, the learning process needs to be efficient , i.e., take as few resources as possible from the user’s data plane, so as not to throttle users’ Quality of Service (QoS). In this paper, we investigate this trade-off, which we refer to as cost of learning , and propose a dynamic strategy to balance the resources assigned to the data plane and those reserved for learning. With the proposed approach, a learning agent can quickly converge to an efficient resource allocation strategy and adapt to changes in the environment as for the Continual Learning (CL) paradigm, while minimizing the impact on the users’ QoS. Simulation results show that the proposed method outperforms static allocation methods with minimal learning overhead, almost reaching the performance of an ideal out-of-band CL solution."
 
